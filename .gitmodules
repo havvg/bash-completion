@@ -1,3 +1,6 @@
 [submodule "git-flow-completion"]
 	path = git-flow-completion
 	url = git://github.com/bobthecow/git-flow-completion.git
+[submodule "cctrl-completion"]
+	path = cctrl-completion
+	url = git://github.com/havvg/cctrl-completion.git
